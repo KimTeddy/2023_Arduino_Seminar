@@ -34,7 +34,9 @@
 <!--![아린이-키우기-프로젝트-006](https://github.com/KimTeddy/2023_Arduino_Seminar/assets/68770209/144c2f18-3dad-4e7c-b415-013262200482)-->
 </div>
 
-## 7일차: RTC
+## 7일차: 캐릭터LCD->커스텀 캐릭터 출력, 물높이 센서, 블루투스 통신, RTC
+- 커스텀 캐릭터를 만들어서 캐릭터LCD에 물높이 센서의 값과 함께 띄우기
+- RTC 모듈의 사용방법 이해하기
 <!--<div align=center>-->
 <!--&nbsp;<img src="https://github.com/KimTeddy/2023_Arduino_Seminar/assets/68770209/144c2f18-3dad-4e7c-b415-013262200482" width="40%">-->
 <!--![아린이-키우기-프로젝트-006](https://github.com/KimTeddy/2023_Arduino_Seminar/assets/68770209/144c2f18-3dad-4e7c-b415-013262200482)-->
